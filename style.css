@@ -1,0 +1,27 @@
+h1{
+color: rgb(107, 23, 23);text-align: center;outline-color: hotpink;
+
+}
+h2{color:rgb(34, 34, 1);text-align: center;
+
+}
+h3{color: mediumblue;
+
+}
+h4{color:rgb(61, 61, 1);text-align: center;
+
+}
+h5{
+
+}
+h6{
+
+}
+button{
+    background-color: maroon;color: mintcream;
+}
+body{text-align: center;
+    background-color: orangered;
+}
+p{outline-color: rgb(102, 5, 5);
+}
