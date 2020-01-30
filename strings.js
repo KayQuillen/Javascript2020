@@ -6,3 +6,8 @@ function dontHelp(){
 document.getElementById("demo").innerHTML = "Why won't you help?!?!"
 alert("It's going to peck me!!")
 }
+
+function entName(){
+    var enteredName = document.getElementById("nameentered").value;
+    document.getElementById("name").innerHTML = enteredName;
+}
