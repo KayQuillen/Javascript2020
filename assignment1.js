@@ -14,5 +14,5 @@
     var average = totalSum / numsCnt;
      
     console.log('Average is: ' + average);
-
+// shows only average of all numbers
 
