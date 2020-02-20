@@ -32,7 +32,7 @@ console.log(Number.parseFloat("Hello"));
 
 console.log(Number.parseInt("4567.421"));
 console.log(Number.parseInt("Hello"))
-// parseInt make a string number with a decimal and rounds it to a number
+// parseInt make a string a number with a decimal and rounds it to a number
 
 console.log(Number.MAX_SAFE_INTEGER);
 console.log(Number.MIN_SAFE_INTEGER);
