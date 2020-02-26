@@ -41,4 +41,4 @@ console.log(Number.POSITIVE_INFINITY);
 console.log(Number.NaN);
 console.log(Number.isInteger(x));
 console.log(Number.isInteger(k))
-
+console.log(Math.max()) //returns greater number
