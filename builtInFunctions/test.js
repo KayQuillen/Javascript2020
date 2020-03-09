@@ -13,3 +13,8 @@ function isTen(a,b){
 
 
 isTen(1,1); isTen(8,2); isTen(10,1)
+
+var z = myFunction(4,5)
+function myFunction(y,x){
+    return x*y
+}
